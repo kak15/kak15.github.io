@@ -1,0 +1,11 @@
+git clone https://github.com/kak15/kak15.github.io
+
+cd kak15.github.io
+
+echo "Hello World" > index.htm
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
